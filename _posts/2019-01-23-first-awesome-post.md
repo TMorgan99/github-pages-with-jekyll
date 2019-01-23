@@ -1,6 +1,6 @@
 ---
 title: "First desparate post"
-date:  2019-01-23
+date: 2019-01-23
 ---
 
 # First Post
